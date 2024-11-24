@@ -23,6 +23,3 @@ lib.registerContext({
     }
   })
 
-RegisterCommand("testJC", function(source, args, rawCommand)
-    lib.showContext('menuPracy')
-end, false)
